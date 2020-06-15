@@ -1,7 +1,7 @@
 # responsive_size_util
 
 **A flutter plugin for adapting screen and font size.**
-This is from the screen_util package but with some tweaks.
+This is from the screen_util package, I made some tweaks.
 
 ### Property
 
